@@ -1,0 +1,8 @@
+https://www.section.io/engineering-education/image-adjustment-to-higher-or-lower-resolution-using-python/
+
+https://github.com/abhishek305/Opencv-HDR-demo
+https://docs.opencv.org/3.4/d2/df0/tutorial_py_hdr.htmlhttps://cyberbotics.com/doc/guide/installation-procedure#installing-the-tarball-package
+
+
+https://cyberbotics.com/doc/guide/installation-procedure#installing-the-tarball-package
+https://cyberbotics.com/doc/guide/system-requirements
